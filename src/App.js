@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import "./components/style.css";
 import GetUserComponent from "./components/GetUserComponent";
 import WelcomePage from "./components/WelcomePage";
 

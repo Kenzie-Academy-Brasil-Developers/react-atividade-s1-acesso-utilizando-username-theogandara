@@ -1,0 +1,19 @@
+button{
+    color: #fff;
+    background-color: #0D193C;
+    border: 1px solid #fff;
+    text-transform: uppercase;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+}
+input{
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 155px;
+}
